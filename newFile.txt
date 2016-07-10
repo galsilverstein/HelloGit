@@ -1,1 +1,1 @@
-Line edited while MyThirdBranch was checked out
+Line edited while a branch was checked out
