@@ -1,1 +1,1 @@
-Line written whole MyFirstBranch was checked out
+Line edited while MySecondBranch was checked out
